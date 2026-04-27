@@ -1,0 +1,25 @@
+{
+  "name": "random_terminal_spinner_nodejs",
+  "version": "1.0.0",
+  "description": "A random terminal spinner",
+  "keywords": [
+    "random",
+    "spinner",
+    "terminal"
+  ],
+  "homepage": "https://github.com/JosManMor/random_terminal_spinner_nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/JosManMor/random_terminal_spinner_nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosManMor/random_terminal_spinner_nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Jose Moreno",
+  "type": "module",
+  "main": "randomSpinner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
